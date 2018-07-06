@@ -1,0 +1,17 @@
+body {
+  background-color: #d8e1e7;
+}
+
+.container {
+  max-width: 600px;
+  width: 100%;
+  margin: 10px auto;
+  background: rgb(255,140,127); /* Old browsers */
+  background: -moz-linear-gradient(45deg, rgba(255,140,127,1) 0%,
+              rgba(255,133,133,1) 35%, rgba(255,129,150,1) 67%, rgba(255,127,178,1) 100%);
+  background: -webkit-linear-gradient(45deg, rgba(255,140,127,1) 0%,
+              rgba(255,133,133,1) 35%,rgba(255,129,150,1) 67%,rgba(255,127,178,1) 100%);
+  background: linear-gradient(45deg, rgba(255,140,127,1) 0%,rgba(255,133,133,1) 35%,
+              rgba(255,129,150,1) 67%,rgba(255,127,178,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff8c7f', endColorstr='#ff7fb2',GradientType=1 );
+}

@@ -1,0 +1,47 @@
+.main {
+  max-width: 500px;
+  width: 70%;
+  margin: 10px auto;
+  margin-bottom: 20px;
+  background-color: white;
+  padding-top: 15px;
+  height: 350px;
+  border-radius: 15px solid;
+  -moz-border-radius:15px;
+  -webkit-border-radius:15px;
+}
+
+.ListSongs {
+  text-decoration: none;
+  font-size: 12px;
+  list-style: none;
+}
+
+.thumbnail {
+  width: 150px;
+  height: 150px;
+  margin: 10px auto;
+  align: center;
+  padding-left: 35%;
+}
+
+.resultsSongs {
+  color: #676D77;
+  text-align: center;
+  margin-bottom: 5px;
+  max-width: 600px;
+  width: 100%;
+  margin: auto;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+}
+
+.titlesongs {
+  font-size: 14px;
+  font-weight: normal;
+  font-family: 'Quicksand', sans-serif;
+  letter-spacing: 1px;
+  color: #F76373;
+  text-align: center;
+  padding-left: 10%;
+}
